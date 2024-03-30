@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/blvksh33p/Desktop/CFDtool/CFDtool/slicersources-subbuild/CMakeFiles/slicersources-populate"
+		},
+		{
+			"file" : "/home/blvksh33p/Desktop/CFDtool/CFDtool/slicersources-subbuild/CMakeFiles/slicersources-populate.rule"
+		},
+		{
+			"file" : "/home/blvksh33p/Desktop/CFDtool/CFDtool/slicersources-subbuild/CMakeFiles/slicersources-populate-complete.rule"
+		},
+		{
+			"file" : "/home/blvksh33p/Desktop/CFDtool/CFDtool/slicersources-subbuild/slicersources-populate-prefix/src/slicersources-populate-stamp/slicersources-populate-build.rule"
+		},
+		{
+			"file" : "/home/blvksh33p/Desktop/CFDtool/CFDtool/slicersources-subbuild/slicersources-populate-prefix/src/slicersources-populate-stamp/slicersources-populate-configure.rule"
+		},
+		{
+			"file" : "/home/blvksh33p/Desktop/CFDtool/CFDtool/slicersources-subbuild/slicersources-populate-prefix/src/slicersources-populate-stamp/slicersources-populate-download.rule"
+		},
+		{
+			"file" : "/home/blvksh33p/Desktop/CFDtool/CFDtool/slicersources-subbuild/slicersources-populate-prefix/src/slicersources-populate-stamp/slicersources-populate-install.rule"
+		},
+		{
+			"file" : "/home/blvksh33p/Desktop/CFDtool/CFDtool/slicersources-subbuild/slicersources-populate-prefix/src/slicersources-populate-stamp/slicersources-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/blvksh33p/Desktop/CFDtool/CFDtool/slicersources-subbuild/slicersources-populate-prefix/src/slicersources-populate-stamp/slicersources-populate-patch.rule"
+		},
+		{
+			"file" : "/home/blvksh33p/Desktop/CFDtool/CFDtool/slicersources-subbuild/slicersources-populate-prefix/src/slicersources-populate-stamp/slicersources-populate-test.rule"
+		},
+		{
+			"file" : "/home/blvksh33p/Desktop/CFDtool/CFDtool/slicersources-subbuild/slicersources-populate-prefix/src/slicersources-populate-stamp/slicersources-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"slicersources-populate"
+		],
+		"name" : "slicersources-populate"
+	}
+}
